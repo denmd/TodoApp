@@ -22,8 +22,10 @@ This application allows users to manage todos within projects. It supports creat
 
 ##  Pre-requisites
 
-- Node.js (v14 or higher recommended)
-- npm or Yarn
+- Node.js 
+- React.js 
+- Express.js 
+- npm or Yarn 
 - MongoDB
 - GitHub account (for creating gists)
 ##   Getting Started
@@ -45,7 +47,7 @@ This application allows users to manage todos within projects. It supports creat
 **Run the backend server**
 
 ```sh
-npm start
+node app.js
 ```
 
 **Set up environment variables**
