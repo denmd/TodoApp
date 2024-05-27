@@ -20,7 +20,7 @@ This application allows users to manage todos within projects. It supports creat
 - Authentication: JWT (JSON Web Tokens)
 - GitHub API for Gist creation
 
-##  Prerequisites
+##  Pre-requisites
 
 - Node.js (v14 or higher recommended)
 - npm or Yarn
@@ -33,7 +33,7 @@ This application allows users to manage todos within projects. It supports creat
   **Clone the repository:**
 
    ```sh
-   git clonehttps://github.com/denmd/todo_backend.git
+   git clone https://github.com/denmd/todo_backend.git
    cd todo_backend  
 
 ```
